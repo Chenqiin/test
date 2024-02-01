@@ -62,7 +62,7 @@ int main() {
 //
     Base::getInstance()->set("qq");
     cout<<Base::getInstance()->getName()<<endl;
-
+//ddddddddddddddddd
     Base::getInstance()->set("ccc");
     cout<<Base::getInstance()->getName()<<endl;
     return 0;
