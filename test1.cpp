@@ -1,6 +1,9 @@
 //
 // Created by Administrator on 2024/2/3.
 //
+/*
+ * 生产者 消费者 线程同步模型
+ */
 #include <iostream>
 #include <thread>
 #include <functional>
