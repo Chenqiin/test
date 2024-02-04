@@ -48,7 +48,9 @@ private:
 
 // 在类定义之后
 Base* Base::obj = nullptr;
-int main() {
+
+
+int main1() {
 //    //测试多线程
 //    thread t2(func);
 //
